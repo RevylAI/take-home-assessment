@@ -30,12 +30,5 @@ The goal of this take home assignment is to create a web app that helps companie
 ## Technical Guidelines
 - You may use any programming languages, frameworks, or tools you prefer
 
-## Evaluation Criteria
-Your submission will be evaluated based on:
-- Functionality and completeness of core requirements
-- Code quality and organization
-- Technical choices and their justification
-- Problem-solving approach
-
 ---
 Note: This is an open-ended assignment designed to evaluate your problem-solving approach. Focus on delivering a working solution that demonstrates your ability to ship fast.

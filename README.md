@@ -19,19 +19,14 @@ The goal of this take home assignment is to create a web app that helps companie
 3. Present test results in a clear, user-friendly format showing:
    - Whether the demo booking flow was found
    - If the booking process completed successfully
-   - Any errors or issues encountered
-
-## Stretch Goals (Optional)
-- Capture metrics from the browser (e.g. console logs, network information, etc.)
-- Support alternative lead capture mechanisms:
-  - Contact forms (e.g., "Contact Sales" flows)
-- Include retry mechanisms for flaky tests
+   - Errors or issues encountered
+   - Insights or metrics of interest
 
 ## Technical Guidelines
-- You may use any programming languages, frameworks, or tools you prefer
+- You may use any programming languages, frameworks, or tools you prefer sop long as you can explain your work
 
 ## Examples
-- https://www.revyl.ai/ - validate "book a demo" button is clickable and leads to a booking page, books a meeting and then validates the booking was successful.
+https://www.revyl.ai/ - validate "Book a demo" button is clickable and leads to a booking page, books a meeting and then validates the booking was successful.
 
 ---
 Note: This is an open-ended assignment designed to evaluate your problem-solving approach. Focus on delivering a working solution that demonstrates your ability to ship fast.
